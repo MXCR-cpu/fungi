@@ -1,0 +1,7 @@
+.EmitterList {
+  position: relative;
+  background-color: grey;
+  width: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
